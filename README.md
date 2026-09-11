@@ -18,3 +18,19 @@ A smart Telegram bot built with Python to automate photo processing, framing, an
 1. Clone the repository:
    ```bash
    git clone [https://github.com/mizomohamed10/VHO-media-bot.git](https://github.com/mizomohamed10/VHO-media-bot.git)
+
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+3. Add your secret API keys and tokens to the configuration parameters in the code.
+
+4. Add your Telegram User ID to the allowed_users.txt file.
+5. Run the application.
+
+
+## 📸 Demo / Before & After
+
+| Before Framing | After Framing |
+| :---: | :---: |
+| ![Before](before.jpg) | ![After](after.jpg) |
