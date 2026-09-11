@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+Pillow
+requests
+python-dotenv
+cloudinary
